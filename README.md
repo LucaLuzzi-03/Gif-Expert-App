@@ -1,2 +1,2 @@
-# Gift-Expert-App
+# Gif-Expert-App
 This is my GiftExpertApp repository :)
