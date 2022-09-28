@@ -1,2 +1,2 @@
 # Gif-Expert-App
-This is my GiftExpertApp repository :)
+This is my GifExpertApp repository :)
